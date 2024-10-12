@@ -1,8 +1,8 @@
 ## Print-friendly portfolio CV
 
-![preview]()
+![preview](/public/screenshots/preview.png)
 
-![Astro Badge](/public/screenshots/preview.png)
+![Astro Badge](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff&style=flat)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)
 ![GitHub stars](https://img.shields.io/github/stars/Smilesharks/dev-portfolio)
 ![GitHub issues](https://img.shields.io/github/issues/Smilesharks/dev-portfolio)
