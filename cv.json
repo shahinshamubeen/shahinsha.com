@@ -1,0 +1,486 @@
+{
+  "analyticsCode": "",
+  "pageLayout": "two-column",
+  "basics": {
+    "name": "Shahinsha",
+    "label": "Software Engineer",
+    "image": "/avatar.png",
+    "email": "shahinshamubeen@gmail.com",
+    "url": "https://www.shahinsha.com",
+    "summary": "With expertise as a software engineer, I effortlessly adapt to various languages and always strive to implement the latest cutting-edge technologies.",
+    "theme": "red",
+    "location": {
+      "city": "Bangalore",
+      "countryCode": "IN",
+      "region": "India"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "icon": "ri:twitter-x-line",
+        "username": "MiraHikari",
+        "url": "https://x.com/shahinshamubeen"
+      },
+      {
+        "network": "GitHub",
+        "icon": "mdi:github",
+        "username": "MiraHikari",
+        "url": "https://github.com/shahinshamubeen"
+      }
+    ]
+  },
+
+  "education": [
+    {
+      "institution": "MES College of Engineering",
+      "url": "https://www.mesce.ac.in/",
+      "area": "Bachelor of Technology (Computer Science & Engineering)",
+      "studyType": "Full-time student",
+      "startDate": "1-8-2017",
+      "endDate": "1-7-2021"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "date": "2024",
+      "url": "https://www.credly.com/badges/4ce071d1-34b4-4194-a3dd-27ae7484e769/public_url",
+      "issuer": "Amazon Web Services Training and Cerifiviation"
+    }
+  ],
+  "work": [
+    {
+      "name": "Freelance",
+      "position": "Full statck developer | App developer",
+      "location_type": "",
+      "location": "Bangalore, India",
+      "url": null,
+      "startDate": "2023-11-01",
+      "endDate": null,
+      "summary": "I deliver full-stack web and mobile app development, creating tailored digital solutions.",
+      "highlights": [
+        "Enhanced efficiency by 30%."
+      ],
+   
+      "achievements": [
+        "xpertattestation.com", "docketsacademy.com"      ],
+      "skills": {
+        "HTML": "simple-icons:html5",
+        "CSS": "simple-icons:css3",
+        "Javascript": "simple-icons:javascript",
+        "Astro.js": "simple-icons:astro",
+        "Next.js": "simple-icons:nextdotjs",
+        "Flutter": "simple-icons:flutter",
+        "Android": "simple-icons:android",
+        "IOS": "simple-icons:ios",
+        "Firebase": "simple-icons:firebase",
+        "AWS": "simple-icons:amazonwebservices",
+        "GCP": "simple-icons:googlecloud"
+
+      }
+    },
+    {
+      "name": "Karix Mobile Pvt Ltd",
+      "position": "Database Administrator",
+      "location_type": "Office",
+      "location": "Chennai, India",
+      "url": "https://www.karix.com/",
+      "startDate": "2022-11-01",
+      "endDate": "2023-07-01",
+      "summary": "Managing and maintaining database systems.",
+      "highlights": [
+        "Enhanced efficiency by 30%."
+      ],
+      "responsibilities": [
+        "Database Design: Planning efficient database structures for various applications., ","Database Design: Planning efficient database structures for various applications.","Performance Monitoring: Diagnosing issues and optimizing query efficiency.", "Backup & Recovery: Establishing backup plans to ensure data availability.", "User Management: Controlling access and permissions for database users.","Troubleshooting: Providing support and resolving database-related issues."
+      ],
+      "achievements": [
+        "Developed and implemented Python scripts to automate backup and recovery processes, enhancing efficiency and reducing manual intervention."
+      ],
+      "skills": {
+        "MySQL": "simple-icons:mysql",
+        "MongoDB": "simple-icons:mongodb",
+        "Python": "simple-icons:python",
+        "ClickHouse": "simple-icons:clickhouse",
+        "Linux": "simple-icons:linux",
+        "Git": "mdi:git",
+        "GitHub": "mdi:github",
+        "AWS": "mdi:aws"
+      }
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "icon": "simple-icons:html5",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "icon": "ri:css3-fill",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "icon": "simple-icons:javascript",
+      "level": "Expert",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "icon": "mdi:tailwind",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "CSS Framework",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "icon": "simple-icons:typescript",
+      "level": "Expert",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "icon": "ri:nodejs-line",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "JavaScript",
+        "Server"
+      ]
+    },
+    {
+      "name": "Flutter",
+      "icon": "simple-icons:flutter",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "JavaScript",
+        "Server"
+      ]
+    },
+    {
+      "name": "Android",
+      "icon": "simple-icons:android",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "JavaScript",
+        "Server"
+      ]
+    },
+    {
+      "name": "IOS",
+      "icon": "simple-icons:ios",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "JavaScript",
+        "Server"
+      ]
+    },
+    {
+      "name": "SQL",
+      "icon": "simple-icons:mysql",
+      "level": "Intermediate",
+      "keywords": [
+        "Databases",
+        "SQL",
+        "Data Storage",
+        "Backend"
+      ]
+    },
+    {
+      "name": "MongoDB",
+      "icon": "simple-icons:mongodb",
+      "level": "Intermediate",
+      "keywords": [
+        "Databases",
+        "File",
+        "Data Storage",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "icon": "mdi:git",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "icon": "mdi:github",
+      "level": "Expert",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code",
+        "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "icon": "ri:nextjs-line",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "icon": "mdi:react",
+      "level": "Expert",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
+      "name": "Vue",
+      "icon": "mdi:vuejs",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
+      "name": "Docker",
+      "icon": "mdi:docker",
+      "level": "Intermediate",
+      "keywords": [
+        "Virtual Environments",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Vite",
+      "icon": "simple-icons:vite",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Build Tool"
+      ]
+    },
+    {
+      "name": "WordPress",
+      "icon": "ri:wordpress-fill",
+      "level": "Intermediate",
+      "keywords": [
+        "PHP",
+        "Fullstack",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "Golang",
+      "icon": "simple-icons:go",
+      "level": "Beginner",
+      "keywords": [
+        "Backend",
+        "Cloud Service"
+      ]
+    },
+    {
+      "name": "Astro",
+      "icon": "simple-icons:astro",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "PHP",
+      "icon": "simple-icons:php",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "Apache2",
+      "icon": "simple-icons:apache",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "Web Server"
+      ]
+    },
+    {
+      "name": "Nginx",
+      "icon": "simple-icons:nginx",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "Web Server"
+      ]
+    },
+    {
+      "name": "Rust",
+      "icon": "simple-icons:rust",
+      "level": "Beginner",
+      "keywords": [
+        "Desktop App",
+        "Webview"
+      ]
+    },
+    {
+      "name": "Socket.IO",
+      "icon": "simple-icons:socketdotio",
+      "level": "Beginner",
+      "keywords": [
+        "Realtime",
+        "Websocket"
+      ]
+    },
+    {
+      "name": "Electron",
+      "icon": "simple-icons:electron",
+      "level": "Beginner",
+      "keywords": [
+        "Desktop App",
+        "Webview"
+      ]
+    },
+    {
+      "name": "Linux",
+      "icon": "simple-icons:linux",
+      "level": "Intermediate",
+      "keywords": [
+        "OS",
+        "Scripting",
+        "Automation"
+      ]
+    },
+    {
+      "name": "AWS",
+      "icon": "simple-icons:amazonwebservices",
+      "level": "Intermediate",
+      "keywords": [
+        "Serverless",
+        "Static Site Hosting"
+      ]
+    },
+    {
+      "name": "GCP",
+      "icon": "simple-icons:googlecloud",
+      "level": "Intermediate",
+      "keywords": [
+        "Serverless",
+        "Static Site Hosting"
+      ]
+    }
+  ],
+  "languages": [
+
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Intermediate"
+    },
+    {
+      "language": "Malayalam",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Kannada",
+      "fluency": "inetermediate"
+    },
+    {
+      "language": "Tamil",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Technology",
+      "keywords": [
+        "AI",
+        "Blockchain"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Shainsha",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "URL Shortener",
+
+      "isActive": true,
+      "description": "A full-stack URL shortener application using Flutter and Node.js",
+      "highlights": [
+        "🎯 Designed a Flutter interface for generating shortened URLs with custom back half.",
+        "✨ Developed a Node.js server for URL shortening, database interaction, and redirection.",
+        "😄 Ensured data security through URL validation and sanitization."
+      ],
+      "url": "https://znyper.web.app"
+    },
+    {
+      "name": "Online Quiz App",
+
+      "isActive": true,
+      "description": "Online Quiz Application built using HTML, CSS, JavaScript, and Java",
+      "highlights": [
+        "👌 Users select topics, navigate questions, and see answered ones marked by a blue border.",
+        "😮‍ A timer runs for each question, and results show correct (green) and incorrect (red) answers.",
+        "😊 Users can submit answers, retry the quiz, or return to the home page."
+      ],
+      "url": "https://github.com/shahinshamubeen/online-quiz-app",
+      "github": "https://github.com/shahinshamubeen/online-quiz-app"
+    }
+  ]
+}
